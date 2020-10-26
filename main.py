@@ -1,7 +1,7 @@
 import random
 
 empiezacon = 0
-print('Hola! ¿Cómo te llamas?')
+print("Hola! ¿Cómo te llamas?")
 minombre = input()
 numero = random.randint(1, 15)
 print('Genial, ' + minombre + ', Estoy pensando en un número entre el 1 y el 15.')
